@@ -1,6 +1,6 @@
 {
-    "name": "graycore/magento2-custom-attribute-metadata-cache",
-    "description": "A Magento 2 module that enables caching for customAttributeMetadata in GraphQL",
+    "name": "graycore/magento2-quote-graphql-aux",
+    "description": "A Magento 2 package that contains additional GraphQl modifications to the cart to solve common UI problems.",
     "type": "magento2-module",
     "license": "MIT",
     "authors": [

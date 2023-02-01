@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![Packagist Downloads](https://img.shields.io/packagist/dm/graycore/magento2-custom-attribute-metadata-cache?color=blue)](https://packagist.org/packages/graycore/magento2-custom-attribute-metadata-cache/stats)
-[![Packagist Version](https://img.shields.io/packagist/v/graycore/magento2-custom-attribute-metadata-cache?color=blue)](https://packagist.org/packages/graycore/magento2-custom-attribute-metadata-cache)
-[![Packagist License](https://img.shields.io/packagist/l/graycore/magento2-custom-attribute-metadata-cache)](https://github.com/graycoreio/magento2-custom-attribute-metadata-cache/blob/master/LICENSE)
-[![Unit Test](https://github.com/graycoreio/magento2-custom-attribute-metadata-cache/actions/workflows/unit.yaml/badge.svg)](https://github.com/graycoreio/magento2-custom-attribute-metadata-cache/actions/workflows/unit.yaml)
-[![Integration Test](https://github.com/graycoreio/magento2-custom-attribute-metadata-cache/actions/workflows/integration.yaml/badge.svg)](https://github.com/graycoreio/magento2-custom-attribute-metadata-cache/actions/workflows/integration.yaml)
-[![Installation Test](https://github.com/graycoreio/magento2-custom-attribute-metadata-cache/actions/workflows/install.yaml/badge.svg)](https://github.com/graycoreio/magento2-custom-attribute-metadata-cache/actions/workflows/install.yaml)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/graycore/magento2-quote-graphql-aux?color=blue)](https://packagist.org/packages/graycore/magento2-quote-graphql-aux/stats)
+[![Packagist Version](https://img.shields.io/packagist/v/graycore/magento2-quote-graphql-aux?color=blue)](https://packagist.org/packages/graycore/magento2-quote-graphql-aux)
+[![Packagist License](https://img.shields.io/packagist/l/graycore/magento2-quote-graphql-aux)](https://github.com/graycoreio/magento2-quote-graphql-aux/blob/master/LICENSE)
+[![Unit Test](https://github.com/graycoreio/magento2-quote-graphql-aux/actions/workflows/unit.yaml/badge.svg)](https://github.com/graycoreio/magento2-quote-graphql-aux/actions/workflows/unit.yaml)
+[![Integration Test](https://github.com/graycoreio/magento2-quote-graphql-aux/actions/workflows/integration.yaml/badge.svg)](https://github.com/graycoreio/magento2-quote-graphql-aux/actions/workflows/integration.yaml)
+[![Installation Test](https://github.com/graycoreio/magento2-quote-graphql-aux/actions/workflows/install.yaml/badge.svg)](https://github.com/graycoreio/magento2-quote-graphql-aux/actions/workflows/install.yaml)
 
 </div>
 
