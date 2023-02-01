@@ -1,0 +1,7 @@
+interface CartAddressInterface {
+  customer_address_id: Int
+    @deprecated
+    @doc(
+      description: "The unique id of the customer address used for the cart address."
+    )
+}
