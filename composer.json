@@ -32,7 +32,7 @@
         ]
     },
     "require": {
-        "magento/module-eav-graph-ql": "^100.4"
+        "magento/module-quote-graph-ql": "^100.4"
 
     },
     "require-dev": {
