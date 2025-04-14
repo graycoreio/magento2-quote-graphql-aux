@@ -11,6 +11,8 @@
 
 </div>
 
+> [!IMPORTANT]  
+> As of Magento v2.4.8, the `id` of a customer address in available natively via the [`id`](https://github.com/magento/magento2/blob/2.4.8/app/code/Magento/QuoteGraphQl/etc/schema.graphqls#L297) property of the `CartAddressInterface`. As such, this package is archived.
 
 ## Magento Version Support
 ![Magento v2.4 Supported](https://img.shields.io/badge/Magento-2.4-brightgreen.svg?labelColor=2f2b2f&logo=magento&logoColor=f26724&color=464246&longCache=true&style=flat)
