@@ -25,14 +25,14 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Graycore\\CustomAttributeMetadataCache\\": ""
+            "Graycore\\Graycore_QuoteGraphQlAux\\": ""
         },
         "files": [
             "registration.php"
         ]
     },
     "require": {
-        "magento/module-quote-graph-ql": "^100.4"
+        "magento/module-quote-graph-ql": ">= 100.4.4 <100.4.8"
 
     },
     "require-dev": {
